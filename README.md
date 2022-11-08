@@ -1,3 +1,3 @@
 # Barley-Break (game)
 res/ - Resources Root;       
-barley_break/ - Package (class BarleyBr - main);
+src/barley_break/ - Package (class BarleyBr - main);
